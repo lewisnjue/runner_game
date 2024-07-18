@@ -16,4 +16,4 @@ this will install all the dependencies which i have included
   pyinstaller --onefile --windowed --add-data "graphics:graphics" --add-data "audio:audio" --add-data "font:font" main.py
   ```
 
--open the dist folder and run your game : **HAPPY GAMING **
+-open the dist folder and run your game : HAPPY GAMING 
