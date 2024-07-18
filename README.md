@@ -14,7 +14,6 @@ this will install all the dependencies which i have included
 - after this run the following command to have an executable file
   ```sh
   pyinstaller --onefile --windowed --add-data "graphics:graphics" --add-data "audio:audio" --add-data "font:font" main.py
-```
-
+  ```
 
 -open the dist folder and run your game : **HAPPY GAMING **
